@@ -55,8 +55,8 @@ body {
     min-height: 19rem;
 
 }
-.isntagram-logo {
-    height: 3rem;
+.instagram-logo {
+    height: 5rem;
 }
 .profile-photo {
     display: flex;
@@ -111,10 +111,10 @@ body {
     background-size: cover;
 }
 .app-download:nth-last-child(1){
-    background-image: url('/home/rael/Imagens/botão playstore.png');
+    background-image: url('/home/rael/Imagens/botaoPlaystore.png');
 }
 .app-download:nth-last-child(2){
-    background-image: url('/home/rael/Imagens/bottao appstore.jpg');
+    background-image: url('/home/rael/Imagens/botaoAppstore.jpg');
 }
 
  /* media queries*/
